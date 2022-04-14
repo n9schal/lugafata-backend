@@ -1,11 +1,11 @@
-# clothing-store-backend
+# lugafata-backend
 
 This project was generated with [`@vendure/create`](https://github.com/vendure-ecommerce/vendure/tree/master/packages/create).
 
 ## Directory structure
 
-* `/src` contains the source code of your Vendure server. All your custom code and plugins should reside here.
-* `/static` contains static (non-code) files such as assets (e.g. uploaded images) and email templates.
+- `/src` contains the source code of your Vendure server. All your custom code and plugins should reside here.
+- `/static` contains static (non-code) files such as assets (e.g. uploaded images) and email templates.
 
 ## Development
 
